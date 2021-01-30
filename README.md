@@ -18,7 +18,7 @@ Before beginning the analysis, we checked the data for any mouse ID with duplica
 - Plotted the linear regression model on top of the previous scatter plot.
 
 
-Observations
+Observations & Analysis
 
 Observation 1
 
