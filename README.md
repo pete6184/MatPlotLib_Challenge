@@ -18,14 +18,16 @@ Before beginning the analysis, we checked the data for any mouse ID with duplica
 - Plotted the linear regression model on top of the previous scatter plot.
 
 
-###Observations
+Observations
 
-#Observation 1
+Observation 1
 
 When we generated the scatter plots to correlate the data for Average Tumor Volume vs. Mouse weight (when treated with Capomulina), I notced that there was a strong correlation between the two data points. This observaton leads to the conclusion that the Total Volume of the tumor is related to the weight of the mouse and the volume of the tumor increases as the mouse's weight does.
-#Observation 2
+
+Observation 2
 
 Capomulin and Ramicane apprear to have the highest success rates in reducing tumor sizes. In some samples I pulled, there was a conistant decrease in tumor volume over time. In addition, these two drugs had significantly lower average and median tumor sizes than the other drugs used in the trial. Both drugs had an average tumor volume around 40mm whereas the other 8 drugs had average volumes around 52-55mm.
-#Observation 3
+
+Observation 3
 
 The gender of the mouse did not seem to play any role in the data's outcome. I ran a quick scatter plot (not included) of average tumor volume and gender of the mice and tehre was no coorlative data provded that would tell us that the tumor size was larger in one of the genders.
