@@ -1,6 +1,6 @@
 # Matplotlib Homework - The Power of Plots
 
-## Requirements
+## Requirements & Summary
 This challenge requires Jupyter Notebook and running the cells in order from the top down to run properly.
 
 This assignment taught me to expand on the python code we have been writing and the dataframes we have been creating. The new element to this challenge was to create visual charts to present the results I created through my dataframes. As you can see in the notebook, I created bar, pie, scatter, box & whisker, and line plot graphs.
