@@ -3,9 +3,7 @@
 ## Requirements & Summary
 This challenge requires Jupyter Notebook and running the cells in order from the top down to run properly.
 
-This assignment taught me to expand on the python code we have been writing and the dataframes we have been creating. The new element to this challenge was to create visual charts to present the results I created through my dataframes. As you can see in the notebook, I created bar, pie, scatter, box & whisker, and line plot graphs.
-
-I enjoyed this assignment and the different elements of creating and cleaning the data and then plotting the information. This seems especially useful for presenting findings to end users. The analysis also gave me a good exercise on reading the information to extract useful takeaways.
+This assignment taught me to expand on the python code I have been writing and the dataframes I have been creating. The new element to this challenge was to create visual charts to present the results created through my dataframes. As you can see in the notebook, I created bar, pie, scatter, box & whisker, and line plot graphs.
 
 
 ## Background
@@ -32,9 +30,13 @@ Before beginning the analysis, we checked the data for any mouse ID with duplica
 
 When we generated the scatter plots to correlate the data for Average Tumor Volume vs. Mouse weight (when treated with Capomulin), I noticed that there was a strong correlation between the two data points. This observation leads to the conclusion that the Total Volume of the tumor is related to the weight of the mouse and the volume of the tumor increases as the mouse's weight does.
 
+![scatterplot](https://user-images.githubusercontent.com/74940976/118375131-9248a400-b574-11eb-9b30-e23e07481ed0.PNG)
+
 #### Observation 2
 
 Capomulin and Ramicane appear to have the highest success rates in reducing tumor sizes. In some samples I pulled, there was a consistent decrease in tumor volume over time. In addition, these two drugs had significantly lower average and median tumor sizes than the other drugs used in the trial. Both drugs had an average tumor volume around 40mm whereas the other 8 drugs had average volumes around 52-55mm.
+
+![box_plot](https://user-images.githubusercontent.com/74940976/118375138-9674c180-b574-11eb-9bfd-a5671bbd9381.PNG)
 
 #### Observation 3
 
